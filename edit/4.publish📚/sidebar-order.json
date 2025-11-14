@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "text": "Getting Started",
+      "items": [
+        { "file": "index", "text": "Introduction" }
+      ]
+    },
+    {
+      "text": "Stories",
+      "items": [
+        { "file": "amita-story", "text": "節目と門出に立ち会う―アミタ研修記" }
+      ]
+    }
+  ]
+}

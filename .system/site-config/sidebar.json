@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Getting Started",
+    "items": [
+      {
+        "text": "Introduction",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "text": "Stories",
+    "items": [
+      {
+        "text": "節目と門出に立ち会う―アミタ研修記",
+        "link": "/amita-story"
+      }
+    ]
+  }
+]
