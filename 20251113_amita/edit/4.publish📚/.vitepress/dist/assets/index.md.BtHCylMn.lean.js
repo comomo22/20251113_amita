@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as e,ag as t}from"./chunks/framework.Cycwnjj0.js";const u=JSON.parse('{"title":"20251113_amita","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"};function l(p,a,r,i,c,d){return e(),n("div",null,[...a[0]||(a[0]=[t("",8)])])}const h=s(o,[["render",l]]);export{u as __pageData,h as default};
